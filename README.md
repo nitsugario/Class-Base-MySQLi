@@ -2,6 +2,7 @@
 Clase PHP para el manejo de la conexión e interacción con la base de datos MySQL. Clase que extiende de MySQLi.
 
 #Detailed description:
+
 This class can extends MySQLi class to perform common SQL queries.
 It is a subclass of the MySQLi class built-in class that provides additional functionality like:
 
